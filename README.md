@@ -24,7 +24,7 @@ Demo
 
 * Download the zip file of this repository or clone the repository using git
 * Make a new virtual-environment(recommended)
-* Install dependencies an libraries using `pip install -r requirements.txt`
+* Install dependencies and libraries using `pip install -r requirements.txt`
 
 #### Training/Testing Guides:
 * Datasets are available in both splitted(train/val/test) and unsplitted form.
